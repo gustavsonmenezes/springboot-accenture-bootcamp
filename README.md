@@ -1,12 +1,11 @@
-# 🚀 Spring Boot Docker Demo
+# 🚀 Spring Boot +  Docker 
 
 [![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.9-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Docker](https://img.shields.io/badge/Docker-✓-blue.svg)](https://www.docker.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Aplicação Spring Boot REST API completa, containerizada com Docker, desenvolvida como parte do bootcamp Accenture - Desenvolvimento Java & Cloud.
-
+API REST Spring Boot containerizada com Docker. Inclui endpoints RESTful, monitoramento com Actuator, e configuração completa com docker-compose. Projeto educacional desenvolvido no bootcamp Accenture.
 ## 📋 Funcionalidades
 
 - ✅ API REST com Spring Boot 3.5.9
@@ -37,5 +36,5 @@ Aplicação Spring Boot REST API completa, containerizada com Docker, desenvolvi
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/SEU-USUARIO/spring-boot-docker-demo.git
+git clone https://github.com/gustavsonmenezes/spring-boot-docker-demo.git
 cd spring-boot-docker-demo
